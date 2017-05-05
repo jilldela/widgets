@@ -1,0 +1,21 @@
+
+  #main {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .clock{
+    background-color: turquoise;
+    text-align: center;
+  }
+
+ .date{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+
+ .time{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+ }
